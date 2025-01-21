@@ -10,6 +10,6 @@ mkdir friends family work
 
 ## Screenshot of Lab1
 
-![Lab1 Screenshot](Lab1/screenshot.png)
+![Lab1 Screenshot](Lab1/photo.png)
 
 
