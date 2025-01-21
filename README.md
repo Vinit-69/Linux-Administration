@@ -46,7 +46,7 @@ echo {A..C}1
 Commands:
 vi editing_final_lab.txt
 
-![Lab3 Vim Screenshot](Lab3/imag3.png)
+
 
 ### 2. Editing with Nano
 Commands:
