@@ -61,3 +61,26 @@ This is a test for Lab 3
 Another line for practice
 
 ![Lab3 Vim Screenshot](Lab3/imag1.png)
+
+
+
+# Lab 4: Setting Directory Permissions
+
+## Objectives
+1. Create a directory and manage its permissions using symbolic and octal methods.
+2. Understand how to grant group permissions and restrict access for others.
+
+---
+
+## Steps and Commands
+
+### 1. Create the Directory
+Command:
+chmod g+w consultants
+chmod 770 consultants
+ls -l
+
+
+![Lab4 Screenshot](Lab4/image.png)
+
+
