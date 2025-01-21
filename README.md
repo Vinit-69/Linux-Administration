@@ -13,3 +13,20 @@ mkdir friends family work
 ![Lab1 Screenshot](Lab1/photo.png)
 
 
+# Lab 2: Using man Pages and Brace Expansion
+
+## Objectives
+1. Learn to use the `man` command to view manual pages for commands.
+2. Use `man -k` to search for commands by keyword.
+3. Practice using brace expansion for generating strings.
+
+---
+
+## Commands Used
+man {commands}
+man -k ext4
+echo {file1,file2,file3}.txt
+echo {A..C}1
+
+![Lab2 Screenshot](Lab2/imag.png)
+
