@@ -1,0 +1,13 @@
+# Commands used in Lab 4
+
+# Create the consultants directory
+mkdir /home/consultants
+
+# Add write permission for the consultants group (symbolic method)
+chmod g+w /home/consultants
+
+# Forbid others from accessing the directory (octal method)
+chmod 770 /home/consultants
+
+# Verify the permissions before and after
+ls -l /home/consultants
