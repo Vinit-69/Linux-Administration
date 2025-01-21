@@ -1,0 +1,11 @@
+# Commands used in Lab 2
+
+# View the gedit man page
+man gedit
+
+# Find the command to tune ext4 file-system parameters
+man -k ext4
+
+# Example of brace expansion
+echo {file1,file2,file3}.txt
+echo {A..C}1
